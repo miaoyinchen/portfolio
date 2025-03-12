@@ -10,7 +10,7 @@
 - 歌聲與節拍分析(課堂專案)
 
   [專案報告](Course_MusicAnalysis.pdf)
-- 成為磚家(課堂專案)
+- 成為磚家(課堂專案:Pygame)
 
   [YT介紹影片](https://youtu.be/U479OtfxdCY)
 
