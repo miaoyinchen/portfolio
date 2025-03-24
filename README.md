@@ -11,7 +11,7 @@
   - 使用 Selenium、Wordcloud 和 Tkinter 開發資料擷取與視覺化工具，透過 Tkinter 建立使用者介面，爬取歌詞生成文字雲，辨識音檔節拍，並運用機器學習訓練模型識別歌手聲音，預測歌曲演唱者。
   - [專案報告](Course_MusicAnalysis.pdf)
 - 成為磚家(2023年課堂專案:Pygame)
-  - 自學pygame，與三位同儕合力完成打磚塊遊戲，並新增特殊玩法及多重關卡
+  - 自學pygame，與三位同儕合力完成打磚塊遊戲，並新增特殊玩法及多重關卡 
   - [YouTube介紹影片](https://youtu.be/U479OtfxdCY)
 
 ## 證書
