@@ -1,19 +1,19 @@
 # 陳妙音的作品集 Portfolio
 
 ## 論文
-- 📜Sui-Hua Ho*, Yu-Hsuan Liu, **Miao-Yin Chen**. (2024, July 12-14). Bodystorming and co-creation in a mobile app development for children. 2024第十屆臺灣人機互動研討會(TAI CHI 2024), Tainan, Taiwan.
+📜Sui-Hua Ho*, Yu-Hsuan Liu, **Miao-Yin Chen**. (2024, July 12-14). Bodystorming and co-creation in a mobile app development for children. 2024第十屆臺灣人機互動研討會(TAI CHI 2024), Tainan, Taiwan.
    - 使用凱比機器人的程式系統與 Power Apps 開發正念應用程式，讓7到11歲的孩童進行正念練習，並比較教育型機器人與一般教育應用程式的效果與差異。  
    - [論文](TAICHI2024Paper.pdf), [海報](TAICHI2024Poster.pdf), [研討會發表證明](TAICHI2024Certificate.pdf)
-- 📜(進行中)Miao-Yin Chen, Shu-Han Chuang. Diffusion-Based Garment Synthesis via Knowledge Graph-Driven Cross-Modal Semantic Alignment
+📜(進行中)Miao-Yin Chen, Shu-Han Chuang. Diffusion-Based Garment Synthesis via Knowledge Graph-Driven Cross-Modal Semantic Alignment
    - 本研究旨在文字生成使用者指定服裝的全身圖像，並保留輸入照片中的人體姿勢，可用於客製化內容，生成特定風格服飾。
    - 我們以H&M商品照片集與各照片相對應的文字描述進行訓練，使用Stable Diffusion的文本生成圖像技術，並搭配ControlNet製作輸入圖像的藍圖，可生成人物骨架或輪廓，讓Stable Diffusion依此結構畫圖，依照使用者給予的一張人物照及服裝文字描述，生成姿勢一致但造型不同的新圖像。
-- 📜(進行中)Shu-Han Chuang, Miao-Yin Chen. A Retrieval-Augmented Generation Chatbot with Fine-Tuned Large Language Models for Context-Aware Mental and Physical Health Solutions
+📜(進行中)Shu-Han Chuang, Miao-Yin Chen. A Retrieval-Augmented Generation Chatbot with Fine-Tuned Large Language Models for Context-Aware Mental and Physical Health Solutions
    - 本研究利用RAG結合LLM並fine-tuned，製作出一款不只是能夠回覆健康知識且具有同理心的LINE bot
 
 ## 比賽
-- 🎯(進行中)陳妙音, 曾子珊, 楊媛晴, 林依婷. (2025). AI CUP 2025春季賽－桌球智慧球拍資料的精準分析競賽
+🎯(進行中)陳妙音, 曾子珊, 楊媛晴, 林依婷. (2025). AI CUP 2025春季賽－桌球智慧球拍資料的精準分析競賽
    - 在官方提供的資料集中，從特徵工程及演算法下手，使用xgboost、lightgbm、random forest、catboost預測
-- 🎯**陳妙音**, 楊媛晴, 林依婷. (2023). 假新聞防衛隊-信任網站辨識. 2023第三屆創新融合永續實踐競賽, 第二名, 台北, 台灣
+🎯**陳妙音**, 楊媛晴, 林依婷. (2023). 假新聞防衛隊-信任網站辨識. 2023第三屆創新融合永續實踐競賽, 第二名, 台北, 台灣
    - 設計 Google 擴充功能，運用文字探勘技術比對使用者瀏覽內容與事實查核網站，並透過網路爬蟲自動更新假新聞資料庫，提供即時辨識輔助，提升準確度與媒體素養。
    - [YouTube介紹影片](https://youtu.be/C-N3vOHr2Bk), [簡報](2023FakeNewsPPT.pdf), [比賽第二名獎狀](2023FakeNewsCompetitionCertificate.pdf)
 
