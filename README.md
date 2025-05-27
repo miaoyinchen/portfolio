@@ -9,6 +9,7 @@
 - 📗(進行中)Miao-Yin Chen, Shu-Han Chuang. Diffusion-Based Garment Synthesis via Knowledge Graph-Driven Cross-Modal Semantic Alignment
    - 本研究旨在文字生成使用者指定服裝的全身圖像，並保留輸入照片中的人體姿勢，可用於客製化內容，生成特定風格服飾。
    - 我們以H&M商品照片集與各照片相對應的文字描述進行訓練，使用Stable Diffusion的文本生成圖像技術，並搭配ControlNet製作輸入圖像的藍圖，可生成人物骨架或輪廓，讓Stable Diffusion依此結構畫圖，依照使用者給予的一張人物照及服裝文字描述，生成姿勢一致但造型不同的新圖像。
+[flowchart](2024第十屆臺灣人機互動研討會/flowchart.png)
 
 
 - 📗(進行中)Shu-Han Chuang, Miao-Yin Chen. A Retrieval-Augmented Generation Chatbot with Fine-Tuned Large Language Models for Context-Aware Mental and Physical Health Solutions
