@@ -1,10 +1,10 @@
 # 陳妙音的作品集 Portfolio
 
-## WORK EXPERIENCE
+## Work Experiences
 暑期研究實習生(中研院GIS中心)   
 - 📙以舒適度為考量之行人路徑規劃
 
-## 論文
+## Projects
 - 📗Sui-Hua Ho*, Yu-Hsuan Liu, **Miao-Yin Chen**. (2024, July 12-14). Bodystorming and co-creation in a mobile app development for children. 2024第十屆臺灣人機互動研討會(TAI CHI 2024), Tainan, Taiwan.
    - 使用凱比機器人的程式系統與 Power Apps 開發正念應用程式，讓7到11歲的孩童進行正念練習，並比較教育型機器人與一般教育應用程式的效果與差異。  
    - [論文](TAICHI2024Paper.pdf), [海報](TAICHI2024Poster.pdf), [研討會發表證明](TAICHI2024Certificate.pdf)
@@ -26,7 +26,9 @@
 
 ## 課堂專案
 
-【電腦視覺】
+:::info
+電腦視覺
+:::
 - 🔍**動作偵測與比對**
    - 針對頭部進行頭部的旋轉及傾斜角度的偵測。
    - 針對高爾夫揮棒動作進行偵測與比對，先取得兩部揮棒影片的人體姿勢骨架，並利用DTW(動態時間規整)比對兩部影片動作的差異。
