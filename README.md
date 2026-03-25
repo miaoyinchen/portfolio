@@ -22,12 +22,12 @@
    - 我們以H&M商品照片集與各照片相對應的文字描述進行訓練，使用Stable Diffusion的文本生成圖像技術，並搭配ControlNet製作輸入圖像的藍圖，可生成人物骨架或輪廓，讓Stable Diffusion依此結構畫圖，依照使用者給予的一張人物照及服裝文字描述，生成姿勢一致但造型不同的新圖像。
 
     ![flowchart](2024第十屆臺灣人機互動研討會/flowchart.png)
-   - [簡報](2025 AISTA 人工智慧暨智慧技術應用國際研討會/Diffusion Model簡報.pdf), [論文](2025 AISTA 人工智慧暨智慧技術應用國際研討會/Diffusion-Based Garment Synthesis via Knowledge Graph-Driven Structural Cross-Modal Semantic Alignment.pdf)
+   - [簡報](2025AISTA人工智慧暨智慧技術應用國際研討會/DiffusionModel簡報.pdf), [論文](2025AISTA人工智慧暨智慧技術應用國際研討會/Diffusion-BasedGarmentSynthesisviaKnowledgeGraph-DrivenStructuralCross-ModalSemanticAlignment.pdf)
 
 
 - 📗Shu-Han Chuang, Miao-Yin Chen. A Retrieval-Augmented Generation Chatbot with Fine-Tuned Large Language Models for Context-Aware Mental and Physical Health Solutions  
    - 本研究利用RAG結合LLM並fine-tuned，製作出一款不只是能夠回覆健康知識且具有同理心的LINE bot
-   - [簡報](2025 AISTA 人工智慧暨智慧技術應用國際研討會/RAG簡報.pdf), [論文](2025 AISTA 人工智慧暨智慧技術應用國際研討會/A Retrieval-Augmented Generation Chatbot.pdf)
+   - [簡報](2025AISTA人工智慧暨智慧技術應用國際研討會/RAG簡報.pdf), [論文](2025 AISTA 人工智慧暨智慧技術應用國際研討會/A Retrieval-Augmented Generation Chatbot.pdf)
  
 - 📗Sui-Hua Ho*, Yu-Hsuan Liu, **Miao-Yin Chen**. (2024, July 12-14). Bodystorming and co-creation in a mobile app development for children. 2024第十屆臺灣人機互動研討會(TAI CHI 2024), Tainan, Taiwan.  
    - 使用凱比機器人的程式系統與 Power Apps 開發正念應用程式，讓7到11歲的孩童進行正念練習，並比較教育型機器人與一般教育應用程式的效果與差異。  
