@@ -29,7 +29,7 @@
    - 本研究利用RAG結合LLM並fine-tuned，製作出一款不只是能夠回覆健康知識且具有同理心的LINE bot
    - [簡報](2025AISTA人工智慧暨智慧技術應用國際研討會/RAG簡報.pdf), [論文](2025AISTA人工智慧暨智慧技術應用國際研討會/RAG論文.pdf)
  
-- 📗Sui-Hua Ho*, Yu-Hsuan Liu, **Miao-Yin Chen**. (2024, July 12-14). Bodystorming and co-creation in a mobile app development for children. 2024第十屆臺灣人機互動研討會(TAI CHI 2024), Tainan, Taiwan.    
+ 
 - 📗Sui-Hua Ho*, Yu-Hsuan Liu, **Miao-Yin Chen**. (2024, July 12-14). Bodystorming and co-creation in a mobile app development for children. 2024 第十屆臺灣人機互動研討會(TAI CHI 2024), Tainan, Taiwan. 
    - 使用凱比機器人的程式系統與 Power Apps 開發正念應用程式，讓7到11歲的孩童進行正念練習，並比較教育型機器人與一般教育應用程式的效果與差異。  
    - [論文](TAICHI2024Paper.pdf), [海報](TAICHI2024Poster.pdf), [研討會發表證明](TAICHI2024Certificate.pdf)
