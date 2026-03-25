@@ -6,7 +6,7 @@
    - 透過影像辨識及全景分割技術，獲取具有騎樓之路段資料
    - 使用Python設計路徑最佳化演算法，其考量多項GIS空間數據，如數值高程模型及具騎樓之路段
    - 建立全端網頁，供使用者查詢並呈現路徑結果
-   - [簡報]()
+   - [簡報](中研院專案/報告完整版pathForPedestrian.pdf)
 
 
 ## Projects
@@ -15,18 +15,19 @@
    - 使用兩種方法優化傳統RAG知識檢索
      1. 動態去冗檢索：挑選最具代表性的語意資料，提升系統回覆事實性60%
      2. Prompt Engineering為架構的Self-Reflection迴圈：讓LLM自動評估並修正不好的回覆，降低幻覺
-   - [Youtube介紹影片](https://youtu.be/322Nec2wxBw), [簡報](), [成果報告書]()
+   - [Youtube介紹影片](https://youtu.be/322Nec2wxBw), [簡報](畢業專題/資料科學系專題報告投影片.pdf), [成果報告書](畢業專題/資料科學系專題實作成果報告書.pdf)
 
 - 📗Miao-Yin Chen, Shu-Han Chuang. Diffusion-Based Garment Synthesis via Knowledge Graph-Driven Cross-Modal Semantic Alignment  
    - 本研究旨在文字生成使用者指定服裝的全身圖像，並保留輸入照片中的人體姿勢，可用於客製化內容，生成特定風格服飾。
    - 我們以H&M商品照片集與各照片相對應的文字描述進行訓練，使用Stable Diffusion的文本生成圖像技術，並搭配ControlNet製作輸入圖像的藍圖，可生成人物骨架或輪廓，讓Stable Diffusion依此結構畫圖，依照使用者給予的一張人物照及服裝文字描述，生成姿勢一致但造型不同的新圖像。
 
     ![flowchart](2024第十屆臺灣人機互動研討會/flowchart.png)
-   - [簡報](), [論文](), [研討會發證明]()
-   - 
+   - [簡報](2025 AISTA 人工智慧暨智慧技術應用國際研討會/Diffusion Model簡報.pdf), [論文](2025 AISTA 人工智慧暨智慧技術應用國際研討會/Diffusion-Based Garment Synthesis via Knowledge Graph-Driven Structural Cross-Modal Semantic Alignment.pdf)
+
+
 - 📗Shu-Han Chuang, Miao-Yin Chen. A Retrieval-Augmented Generation Chatbot with Fine-Tuned Large Language Models for Context-Aware Mental and Physical Health Solutions  
    - 本研究利用RAG結合LLM並fine-tuned，製作出一款不只是能夠回覆健康知識且具有同理心的LINE bot
-   - [簡報](), [論文](), [研討會發證明]()
+   - [簡報](2025 AISTA 人工智慧暨智慧技術應用國際研討會/RAG簡報.pdf), [論文](2025 AISTA 人工智慧暨智慧技術應用國際研討會/A Retrieval-Augmented Generation Chatbot.pdf)
  
 - 📗Sui-Hua Ho*, Yu-Hsuan Liu, **Miao-Yin Chen**. (2024, July 12-14). Bodystorming and co-creation in a mobile app development for children. 2024第十屆臺灣人機互動研討會(TAI CHI 2024), Tainan, Taiwan.  
    - 使用凱比機器人的程式系統與 Power Apps 開發正念應用程式，讓7到11歲的孩童進行正念練習，並比較教育型機器人與一般教育應用程式的效果與差異。  
